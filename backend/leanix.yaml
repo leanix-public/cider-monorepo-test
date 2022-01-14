@@ -1,5 +1,5 @@
 id: monorepo-backend
-name: monorepo-frontend
+name: monorepo-backend
 description: Backend
 self: https://github.com/leanix-public/cider-monorepo-test/blob/main/backend/leanix.yaml
 owner: my.owner@leanix.net

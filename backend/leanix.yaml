@@ -1,7 +1,7 @@
 id: monorepo-backend
 name: monorepo-frontend
 description: Backend
-self: https://github.com/leanix/cicd-connector-v2/blob/main/lx-manifest.yml
+self: https://github.com/leanix-public/cider-monorepo-test/blob/main/backend/leanix.yaml
 owner: my.owner@leanix.net
 teams:
   - cider
@@ -9,4 +9,4 @@ products:
   - leanix-vsm
 links:
   - name: vcs
-    url: https://github.com/leanix/cicd-connector-v2
+    url: https://github.com/leanix-public/cider-monorepo-test/tree/main/backend
